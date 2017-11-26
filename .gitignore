@@ -7,8 +7,4 @@ target
 *.log
 logs
 python-env
-.chalice/venv
-.chalice/deployments
-node_modules
-argon-api/chalicelib/usf/*.json
-voter_count_analysis
+.ipynb_checkpoints
